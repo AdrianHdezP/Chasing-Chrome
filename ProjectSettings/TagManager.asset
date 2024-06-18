@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Graffiti
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Collider_Slide
+  - Slide_Check
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2692881897
+    locked: 0
+  - name: Ground
+    uniqueID: 2065788129
+    locked: 0
+  - name: Props
+    uniqueID: 4014018949
+    locked: 0
+  - name: Items
+    uniqueID: 1567125963
+    locked: 0
+  - name: Enemy
+    uniqueID: 1477060003
+    locked: 0
+  - name: Player
+    uniqueID: 91914545
+    locked: 0
+  - name: First Layer
+    uniqueID: 189650675
+    locked: 0
